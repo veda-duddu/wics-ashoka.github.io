@@ -8,7 +8,7 @@ image: https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwi
 description: "Success in Segregation: Black women who made history"
 featured: true
 
-filename: "posts/nnandinibhattachary-Success in Segregation: Black women who made history.md"
+filename: "posts/nandinibhattachary-Success in Segregation: Black women who made history"
 ---
 
 If a year ago, you’d have asked me to name all the female computer scientists I knew, I wouldn’t
