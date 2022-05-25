@@ -4,7 +4,7 @@ title:  "The Need For Representation In Artificial Intelligence "
 author: Veda D
 categories: [ Adovacy ]
 tags: [women in CS, AI, Artificial Intelligence, lack of diversity]
-image: 
+image: https://builtin.com/sites/www.builtin.com/files/styles/blog_medium/public/artificial-intelligence-companies.jpg
 description: "Success in Segregation: Black women who made history"
 featured: true
 
