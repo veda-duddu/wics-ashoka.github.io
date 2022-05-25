@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Need For Representation In Artificial Intelligence "
-author: Vrinda Khandelwal
+author: Veda D
 categories: [ Adovacy ]
 tags: [women in CS, AI, Artificial Intelligence, lack of diversity]
 image: 
