@@ -10,6 +10,8 @@ featured: true
 
 filename: "posts/2022-25-05-the_need_for_representation_in_artificial_intelligence .md"
 ---
+By Vrinda Khandelwal
+
 Technological and scientific fields are responsible for orchestrating significant transformations and advancements in our lives. But there exist many contentions regarding the lack of an inclusive culture in this sphere. 
 
 One of the many structural issues that plague the technical sector is the homogenised workforce that consists primarily of white, cis men. This homogenized workforce serves as a major obstacle to women, people of colour, ethnic minorities and others who have faced systemic oppression, and prevents them from gaining equal access to this space. 
