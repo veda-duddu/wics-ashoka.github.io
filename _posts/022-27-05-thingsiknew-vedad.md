@@ -4,7 +4,7 @@ title:  "Things I Wish I Knew in my Second Semester - Veda D"
 author: Veda D
 categories: [Things I wish I knew]
 tags: [women in CS, women in STEM, Experience, first-year nervousness] 
-image: 
+image: (../assets/images/thingsiwishiknew.jpeg)
 description: "Things I Wish I Knew in my Second Semester - Veda D"
 featured: true
 
